@@ -30,7 +30,8 @@ a {
 }
 
 #k {
-    	animation: change 1s;
+    	color: ##FF0000;
+	animation: change 1s;
 }
 
 #op{
