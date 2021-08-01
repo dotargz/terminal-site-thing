@@ -1,6 +1,6 @@
-<span id="a">pradyuman@dixit</span>:<span id="b">~</span><span id="c">$</span> cd Pradyuman/<!-- kjsdfhkjdhsfkjdshfkj -->About_Pradyuman
-<span id="a">pradyuman@dixit</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->pradyuman.txt<br/><br/>
-My favorite code quote, "<span id="k">Build fast, Code big</span>". <!-- sjkfhskjf -->
+<span id="a">root@onespark</span>:<span id="b">~</span><span id="c">$</span> cd root/<!-- kjsdfhkjdhsfkjdshfkj -->system_files
+<span id="a">root@onespark</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->encryptionkeys.txt<br/><br/>
+System access "<span id="k">Denied</span>". <!-- sjkfhskjf -->
 
 Hey There! I am Pradyuman Dixit.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently pursuing my Bachelor's in Computer Science and Engineering from Delft University of Technology (TU Delft).</p>
 <p>I love to code, solve interesting mathematics problems, and play football, and maybe sketching too.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
@@ -12,4 +12,4 @@ I also am currently a Technical writer for Hacker Noon and AndroidPub, you can f
 If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at <a href="mailto: crvasu779@gmail.com">crvasu779@gmail.com</a>.
 
 <p>Cheers!</p>
-<span id="a">pradyuman@dixit</span>:<span id="b">~</span><span id="c">$</span> exit
+<span id="a">root@onespark</span>:<span id="b">~</span><span id="c">$</span> exit
