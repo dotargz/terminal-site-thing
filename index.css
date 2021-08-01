@@ -30,7 +30,6 @@ a {
 }
 
 #k {
-    	color: ##FF0000;
 	animation: change 1s;
 }
 
@@ -39,7 +38,7 @@ a {
 }
 
 @keyframes change {
-    	0%  { color:  #0f0; }
-    	50% { color:  #0f0; }
+    	0%  { color:  #ff0000; }
+    	50% { color:  #ff0000; }
     	99% { color: black; }
 }
